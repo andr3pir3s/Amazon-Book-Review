@@ -5,6 +5,7 @@ Integrante: André Pires
 [Link do Dataset](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv)
 
 <h4> Perguntas:
-  *Dos livros publicados entre 1990 e 2010, quais os livros com maior rating ?
-  *Os 100 livros mais caros tem notas maiores que os 100 mais caros ?
-  *Qual o gênero literário que mais aparece no dataset ?
+ 
+  1. Dos livros publicados entre 1990 e 2010, quais os livros com maior rating ?
+  2. Os 100 livros mais caros tem avaliações melhores que os 100 mais caros ?
+  3. Quais os gêneros literários que mais e menos aparecem no dataset ?
